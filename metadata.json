@@ -1,0 +1,6 @@
+{
+  "name": "Shirdi Sai Marbles & Tiles ERP",
+  "description": "Production-ready offline-first ERP, POS billing, tile/marble calculator, stock & khata management system for Shirdi Sai Marbles & Tiles, Jajpur Town, Odisha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
